@@ -1,18 +1,74 @@
-<h1 align="center">Hi 👋, I'm Chemssou</h1>
-<h3 align="center">🚀 Cross-Platform App Developer | Crafting seamless experiences for mobile & desktop</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **I’m currently learning backend integration with Node.js & Express to strengthen my full-stack development skills.**
+# Hi, I'm Chemssou (Davis) 👋
 
-- 📫 How to reach me **chamssoumrabet@gmail.com**
+### 🚀 Cross‑Platform App Developer · Mobile & Desktop · Clean UX · Solid Backends
 
-<h3 align="left">Connect with me:</h3>
+[![GitHub followers](https://img.shields.io/github/followers/DAVIXSX?label=Follow&style=social)](https://github.com/DAVIXSX)
+[![Stars](https://img.shields.io/github/stars/DAVIXSX?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/DAVIXSX)
+
+</div>
+
+---
+
+## About me
+- 💼 Building practical software that solves real problems (healthcare, retail, automation)
+- 🔭 Currently working on: Pharmacy Management System (Flask + Firebase)
+- 🌱 Growing skills in Node.js/Express backends and scalable cloud patterns
+- 💬 I enjoy Flutter, Flask, Firebase, and shipping polished experiences
+- 🌍 Languages: English, Arabic
+- 📫 Reach me: nexgendev.davis@gmail.com
+
+---
+
+## Tech stack
+
+- Backend: Flask, Node.js (Express), Python, PHP
+- Frontend: Flutter, React, HTML5/CSS3, JavaScript
+- Databases: Firebase Firestore, MySQL, SQLite, SQL Server
+- Cloud & Tools: Firebase Auth, GCP Storage, Git/GitHub, Figma, Postman
+
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="36"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="36"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="36"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="36"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="36"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davixsx&show_icons=true&locale=en&layout=compact" alt="davixsx" /></p>
+## Featured project
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davixsx&show_icons=true&locale=en" alt="davixsx" /></p>
+- 🏥 Pharmacy Management System — Flask + Firebase, multilingual (EN/AR), inventory, orders, suppliers, dashboards.
+  - Repo: https://github.com/DAVIXSX/pharmacy-management-system
+  - Tech: Flask, Firebase Auth/Firestore/Storage, Jinja, HTML/CSS/JS
 
+---
+
+## GitHub stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DAVIXSX&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAVIXSX&layout=compact&theme=radical" />
+</p>
+
+---
+
+## Let’s build something great
+- 📨 Email: <a href="mailto:nexgendev.davis@gmail.com">nexgendev.davis@gmail.com</a>
+- 🤝 Open to collaboration on impactful mobile/desktop apps
+
+> “Code is design made executable.”
+
+<div align="center">
+
+— Built with passion for great user experiences —
+
+</div>
